@@ -1,1 +1,1 @@
-# computaci-n-cu-ntica
+# computación cuántica
