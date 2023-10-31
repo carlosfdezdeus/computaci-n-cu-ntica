@@ -15,7 +15,6 @@ Este archivo es el equivalente a realizar el hola mundo en un lenguaje de progra
   - Puerta X.ipynb
 
 Este archivo es una explicación del funcionamiento de la puerta lógica cuántica X. Además, se explican también 3 formas de representación de los estados de un cubit:
-
     - Vector de estado
     - Matriz unitaria
     - Esfera de Bloch
